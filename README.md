@@ -23,7 +23,7 @@ I will start in 2023 and will update from there.
 ・Bookkeeping Certificate-Nissho 3rd grade (2020)
 
 ## ADDITIONAL INFORMATION
-・Volunterr　crime-prevention, 2018-2021\
+・Volunterr Crime-prevention, 2018-2021\
 
 ## Languages and Tools
 <p align="left">
