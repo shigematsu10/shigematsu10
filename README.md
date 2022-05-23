@@ -47,5 +47,5 @@ I will start in 2023 and will update from there.
 <a href="https://www.tensorflow.org/" target="_blank" rel="noopener">
 <img src="./img/icons/tensorflow.svg" alt="tensorflow" width="40" height="40" /></a> 
 <a href="https://opencv.org/" target="_blank" rel="noopener">
-<img src="./img/icons/opencv.svg" alt="tensorflow" width="40" height="40" /></a> 
+<img src="./img/icons/opencv.svg" alt="opencv" width="40" height="40" /></a> 
 </p>
