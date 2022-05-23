@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigematsu10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## PROFILE
 | key | value |
@@ -34,7 +35,7 @@ I will start in 2023 and will update from there.
 
 ## QUALIFICATIONS/SPECIAL SKILLS
 ・TOEIC 735 (2021)\
-・Bookkeeping Certificate-Nissho 3rd grade
+・Bookkeeping Certificate-Nissho 3rd grade (2020)
 
 ## ADDITIONAL INFORMATION
 ・Volunterr　crime-prevention, 2018-2021\
