@@ -15,11 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Profile
+## PROFILE
 | key | value |
 |---- | ---- |
 | Name | Yuuki Shigematsu |
 | Job | Second-year master's student |
 | Research | summary generation in NLP(Natural Language Processing) |
 
-## Career
+## SUMMARY
+
+## WORK EXPERIENCE
+I do not yet have a job history as an engineer.\
+I will start in 2023 and will update from there.
+
+## EDUCATION
+・KUMAMOTO UNIVERSITY Bachelor of Information Science (April 2018 - March 2021)\
+・KUMAMOTO UNIVERSITY Master of Information Science (April 2021 - )
+
+## QUALIFICATIONS/SPECIAL SKILLS
+・TOEIC 735 (2021)\
+・Bookkeeping Certificate-Nissho 3rd grade
+
+## ADDITIONAL INFORMATION
+・Volunterr　crime-prevention, 2018-2021\
