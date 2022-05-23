@@ -41,7 +41,7 @@ I will start in 2023 and will update from there.
 ・Volunterr　crime-prevention, 2018-2021\
 
 ## Languages and Tools
-
+![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 <p align="left">
 <a href="https://expressjs.com" target="_blank" rel="noopener">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a> 
