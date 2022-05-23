@@ -32,4 +32,4 @@ I will start in 2023 and will update from there.
 <a href="https://opencv.org/" target="_blank" rel="noopener">
 <img src="./img/icons/opencv.svg" alt="opencv" width="40" height="40" /></a> 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigematsu10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigematsu10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
