@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Profile
+| key | value |
+|---- | ---- |
+| Name | Yuuki Shigematsu |
+| Job | Second-year master's student |
+| Research | summary generation in NLP(Natural Language Processing) |
+
+## Career
