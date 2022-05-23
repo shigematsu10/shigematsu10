@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigematsu10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## PROFILE
 | key | value |
 |---- | ---- |
@@ -7,6 +5,7 @@
 | Job | Second-year master's student |
 | Research | summary generation in NLP(Natural Language Processing) |
 | SNS | ・Instagram　[@sycareer](https://www.instagram.com/sy.career/)<br>・LinkedIn   [Yuuki Shigematsu](https://www.linkedin.com/in/yuuki-shigematsu-ab5203223) |
+
 ## SUMMARY
 
 ## WORK EXPERIENCE
@@ -33,3 +32,4 @@ I will start in 2023 and will update from there.
 <a href="https://opencv.org/" target="_blank" rel="noopener">
 <img src="./img/icons/opencv.svg" alt="opencv" width="40" height="40" /></a> 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigematsu10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
