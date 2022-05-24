@@ -10,6 +10,7 @@
 
 ## SUMMARY
 
+
 ## WORK EXPERIENCE
 I do not yet have a job history as an engineer.\
 I will start in 2023 and will update from there.
@@ -24,6 +25,12 @@ I will start in 2023 and will update from there.
 
 ## ADDITIONAL INFORMATION
 ・Volunterr Crime-prevention, 2018-2021
+
+## PASTIME
+・Work out
+・Walking
+・Anime and Comic
+・Hot spring (sauna, bedrock bath)
 
 ## Languages and Tools
 <p align="left">
