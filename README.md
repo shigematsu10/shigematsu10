@@ -27,9 +27,9 @@ I will start in 2023 and will update from there.
 ・Volunterr Crime-prevention, 2018-2021
 
 ## PASTIME
-・Work out
-・Walking
-・Anime and Comic
+・Work out\
+・Walking\
+・Anime and Comic\
 ・Hot spring (sauna, bedrock bath)
 
 ## Languages and Tools
