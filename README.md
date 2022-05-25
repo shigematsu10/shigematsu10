@@ -5,10 +5,13 @@
 |---- | ---- |
 | Name | Yuuki Shigematsu |
 | Job | Second-year master's student |
-| Research | summary generation in NLP(Natural Language Processing) |
+| Job Description | summary generation in NLP(Natural Language Processing) |
 | SNS | ・Instagram　[@sycareer](https://www.instagram.com/sy.career/)<br>・LinkedIn   [Yuuki Shigematsu](https://www.linkedin.com/in/yuuki-shigematsu-ab5203223) |
 
 ## SUMMARY
+・In college, I studied not only information science, but also electrical and electronic content\
+・Skipped my third year of college and entered graduate school\
+・In graduate school, I am conducting research in the field of NLP using artificial intelligence
 
 
 ## WORK EXPERIENCE
