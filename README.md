@@ -15,7 +15,7 @@
 
 
 ## WORK EXPERIENCE
-I do not yet have a job history as an engineer.\
+I do not yet have a job history as an engineer.
 I will start in 2023 and will update from there.
 
 ## EDUCATION
