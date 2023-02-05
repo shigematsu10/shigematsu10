@@ -43,12 +43,12 @@ I will start in 2023 and will update from there.
 <img src="./img/icons/tensorflow.svg" alt="tensorflow" width="40" height="40" /></a> 
 <a href="https://opencv.org/" target="_blank" rel="noopener">
 <img src="./img/icons/opencv.svg" alt="opencv" width="40" height="40" /></a> 
-<a href=“https://kivy.org/” target=“_blank” rel=“noopener”>
-<img src=“./img/icons/kivy.png” alt=“kivy” width=“40" height=“40” /></a>
+<a href="https://kivy.org/" target="_blank" rel="noopener">
+<img src="./img/icons/kivy.png" alt="kivy" width="40" height="40" /></a>
 </p>
-<p align=“left”>
-<a href=“https://www.java.com/ja/download/help/whatis_java.html” target=“_blank” rel=“noopener”>
-<img src=“./img/icons/java.svg” alt=“java” width=“40" height=“40” /></a>
-<a href=“https://www.java.com/ja/download/help/whatis_java.html” target=“_blank” rel=“noopener”>
-<img src=“./img/icons/servlets_jsp.png” alt=“servlets_jsp” width=“40” height=“40" /></a>
+<p align="left">
+<a href="https://www.java.com/ja/download/help/whatis_java.html" target="_blank" rel="noopener">
+<img src="./img/icons/java.svg" alt="java" width="40" height="40" /></a>
+<a href="https://www.java.com/ja/download/help/whatis_java.html" target="_blank" rel="noopener">
+<img src="./img/icons/servlets_jsp.png" alt="servlets_jsp" width="40" height="40" /></a>
 </p>
