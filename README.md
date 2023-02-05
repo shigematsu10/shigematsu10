@@ -6,7 +6,7 @@
 | Name | Yuuki Shigematsu |
 | Job | Second-year master's student |
 | Research | Extractive Summary generation in NLP(Natural Language Processing) |
-| SNS | ・Instagram　[@sycareer](https://www.instagram.com/sy.career/)<br>・LinkedIn   [Yuuki Shigematsu](https://www.linkedin.com/in/yuuki-shigematsu-ab5203223) |
+| From | ・Fukuoka<br>・Kumamoto<br>・Tokyo|
 
 ## SUMMARY
 ・In college, I studied not only information science, but also electrical and electronic content\
