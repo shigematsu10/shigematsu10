@@ -3,13 +3,15 @@
 ## PROFILE
 | key | value |
 |---- | ---- |
-| Name | Yuuki Shigematsu |
-| Job | Second-year master's student |
+| Name | Yuki Shigematsu |
+| Job | Soluction Enginner |
+| Industry | Financial(Capital Markets) |
+| Service | [Travel Memory](https://travmemo.invert23.com/) |
+| Patent | Battery performance estimation system(program) |
 | Research | Extractive Summary generation in NLP(Natural Language Processing) |
 | From | ・Fukuoka<br>・Kumamoto<br>・Tokyo |
 
 ## SUMMARY
-・In college, I studied not only information science, but also electrical and electronic content\
 ・Skipped my third year of college and entered graduate school\
 ・In graduate school, I am conducting research in the field of NLP using artificial intelligence
 
@@ -20,7 +22,7 @@ I will start in 2023 and will update from there.
 
 ## EDUCATION
 ・KUMAMOTO UNIVERSITY Bachelor of Information Science (April 2018 - March 2021)\
-・KUMAMOTO UNIVERSITY Master of Information Science (April 2021 - )
+・KUMAMOTO UNIVERSITY Master of Information Science (April 2021 - March 2023)
 
 ## QUALIFICATIONS/SPECIAL SKILLS
 ・TOEIC 735 (2021)\
@@ -30,15 +32,17 @@ I will start in 2023 and will update from there.
 ・Volunterr Crime-prevention, 2018-2021
 
 ## PASTIME
-・Work out\
-・Walking\
+・Work out and Running\
 ・Anime and Comic\
 ・Hot spring (sauna, bedrock bath)
+・Travel
 
 ## Languages and Tools
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noopener">
 <img src="./img/icons/python.svg" alt="python" width="40" height="40" /></a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener">
+<img src="./img/icons/django.png" alt="django" width="40" height="40" /></a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noopener">
 <img src="./img/icons/tensorflow.svg" alt="tensorflow" width="40" height="40" /></a> 
 <a href="https://opencv.org/" target="_blank" rel="noopener">
