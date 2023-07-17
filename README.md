@@ -17,8 +17,7 @@
 
 
 ## WORK EXPERIENCE
-I do not yet have a job history as an engineer.
-I will start in 2023 and will update from there.
+・System transfer of ECUs in the Financial(Capital Markets)
 
 ## EDUCATION
 ・KUMAMOTO UNIVERSITY Bachelor of Information Science (April 2018 - March 2021)\
